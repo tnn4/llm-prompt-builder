@@ -1,0 +1,47 @@
+[[subjects]]
+domain = "Organic Chemistry"
+context = "Stereoisomerism and chirality in synthetic pharmacology"
+
+[[subjects]]
+domain = "Linear Algebra"
+context = "Matrix transformations and Eigenvalues in 3D computer graphics"
+
+[[subjects]]
+domain = "Macroeconomics"
+context = "The mechanics of inflationary pressure and currency velocity"
+
+[[subjects]]
+domain = "Discrete Mathematics"
+context = "Graph theory applications in network routing protocols"
+
+[[subjects]]
+domain = "Quantum Physics"
+context = "Wave-particle duality and the observer effect in double-slit experiments"
+
+[[subjects]]
+domain = "Molecular Biology"
+context = "CRISPR-Cas9 gene editing and double-strand break repair mechanics"
+
+[[subjects]]
+domain = "Epistemology"
+context = "The interaction between heuristic bias and Bayesian updating"
+
+[[subjects]]
+domain = "Thermodynamics"
+context = "Entropy and the second law in closed-system energy exchange"
+
+[[subjects]]
+domain = "Formal Logic"
+context = "Predicate calculus and the limits of Gödel's Incompleteness Theorems"
+
+[[subjects]]
+domain = "Fluid Dynamics"
+context = "Laminar vs. turbulent flow in aerodynamic surfaces"
+
+[[subjects]]
+domain = "Sociology / Systems Theory"
+context = "Emergent behavior in decentralized social hierarchies"
+
+[[subjects]]
+domain = "Classical Mechanics"
+context = "Orbital mechanics and Hohmann transfer orbits in vacuum environments"

@@ -1,0 +1,5 @@
+domain = ""
+context = ""
+variables = [""]
+constraints = "Strict mechanics, no conversational filler"
+prompt_body = ""
