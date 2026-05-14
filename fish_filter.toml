@@ -1,5 +1,0 @@
-domain = "fishes, whales"
-context = "fins"
-variables = ["narwhals", "goldfish"]
-constraints = ""
-prompt_body = "why did fishes evolve vertical back fins while whales horizontal?"
